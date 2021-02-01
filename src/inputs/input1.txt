@@ -1,0 +1,15 @@
+﻿int a = 2 + 5;
+int b = a;
+int c = a + b;
+for(a = 2;i<c;i++){
+    b += a;
+}
+if(b>a){
+    print(c);
+} else {
+    print(b);
+}
+while(true==false){
+    var b = 542;
+    b = b + a;
+}
